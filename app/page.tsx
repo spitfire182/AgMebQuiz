@@ -13,14 +13,12 @@ export default function Home() {
         >
           Zobacz Szafy
         </Link>
-
         <Link 
           href="/products/beds" 
           className="px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition"
         >
           Zobacz Łóżka
         </Link>
-
         <Link 
           href="/features/quiz" 
           className="px-6 py-3 bg-red-600 text-white rounded-lg hover:bg-green-700 transition"

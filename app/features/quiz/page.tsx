@@ -140,7 +140,6 @@ export default function QuizPage() {
           </div>
         )}
       </div>
-
       <Link
         href="/"
         className="mt-10 px-6 py-3 bg-white text-gray-800 border-2 border-gray-800 font-semibold rounded-full hover:bg-gray-800 hover:text-white transition-all duration-300 ease-in-out flex items-center gap-2"
