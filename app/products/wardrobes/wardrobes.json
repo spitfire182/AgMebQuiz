@@ -6,7 +6,7 @@
     "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/4/a/4a185ac4-62b0-42b3-be13-b3fa9ad8a55d.jpg",
     "manufacturer": "Forte",
     "code": "0090",
-    "wait_time": "2tyg - 1 mies",
+    "wait_time": "2tyg",
     "additional_info": "bialy mat/polysk + lustro"
   },
   {
@@ -14,9 +14,279 @@
     "name": "Narago",
     "size": ["270x210"],
     "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/4/b/4b5e6c52-9b34-47b9-a48c-06d772641f93.jpg",
-    "manufacturer": "forte",
-    "wait_time": "-",
+    "manufacturer": "Forte",
+    "wait_time": "2tyg",
     "code": "0090",
     "additional_info": "tylko dostepny kolor"
+  },
+  {
+    "id": 3,
+    "name": "Bastia / Bastia 2",
+    "size": ["150x215", "200x215", "250x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/4/3/4337611a-db97-459a-95fb-c8d7a8de0c34.jpg",
+    "manufacturer": "Stolar",
+    "wait_time": "1mies",
+    "code": "1054",
+    "additional_info": "kaszmir/biel/grafit"
+  },
+  {
+    "id": 4,
+    "name": "Nola",
+    "size": ["200x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/a/f/af5c6b83-d0ac-4cbc-97b1-d59c78b0b6f6.jpg",
+    "manufacturer": "Cyprys",
+    "wait_time": "1mies",
+    "code": "1178",
+    "additional_info": "biel/dab cremona"
+  },
+  {
+    "id": 5,
+    "name": "Otis",
+    "size": ["153x215", "200x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/8/7/876723b5-5b9c-4f76-a860-71cee3bf6d33.jpg",
+    "manufacturer": "Cyprys",
+    "wait_time": "1mies",
+    "code": "1178",
+    "additional_info": "biel/dab cremona"
+  },
+  {
+    "id": 6,
+    "name": "Kier",
+    "size": ["200x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/b/8/b81ebe70-3252-4037-98dc-59822f7cd639.jpg",
+    "manufacturer": "PTG Cyprys",
+    "wait_time": "1mies",
+    "code": "1178",
+    "additional_info": "dab wotan"
+  },
+  {
+    "id": 7,
+    "name": "Espresso",
+    "size": ["122x200", "162x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/b/9/b99f1c40-342c-4101-847d-af9683575189.jpg",
+    "manufacturer": "PTG Composat",
+    "wait_time": "1mies",
+    "code": "2311",
+    "additional_info": "biel"
+  },
+  {
+    "id": 8,
+    "name": "Konso",
+    "size": ["120x200", "150x200", "200x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/5/6/56d36c26-7c99-499b-8116-23bbd4c7ac2a.jpg",
+    "manufacturer": "Meblosiek",
+    "wait_time": "1mies",
+    "code": "0871",
+    "additional_info": "piaskowy bez"
+  },
+  {
+    "id": 9,
+    "name": "Toronto",
+    "size": ["200x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/6/7/67938de7-f262-492c-8400-dedd384b8b29.jpg",
+    "manufacturer": "Fadoma",
+    "wait_time": "1mies",
+    "code": "2477",
+    "additional_info": "dab artisan"
+  },
+  {
+    "id": 10,
+    "name": "Tempo",
+    "size": ["170x196"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/7/8/78000d1b-5377-41b1-9327-995df77b669c.jpg",
+    "manufacturer": "Szynaka meble",
+    "wait_time": "1mies",
+    "code": "1124",
+    "additional_info": "biel"
+  },
+  {
+    "id": 11,
+    "name": "Luano",
+    "size": ["270x210"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/2/4/24885805-bd1c-4aa7-b0a5-c6b933c9415b.jpg",
+    "manufacturer": "Forte",
+    "wait_time": "2tyg",
+    "code": "0090",
+    "additional_info": "biel mat/polysk, oswietlenie"
+  },
+  {
+    "id": 12,
+    "name": "Luse",
+    "size": ["150x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/7/5/7508ccba-5170-455e-a6c3-35d41a81d0c7.jpg",
+    "manufacturer": "PTG Intermeble",
+    "wait_time": "1mies",
+    "code": "1090",
+    "additional_info": "kaszmir"
+  },
+  {
+    "id": 13,
+    "name": "Alfa",
+    "size": ["150x215", "200x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/1/2/12e0b5ff-7240-4555-821c-d6e6dd70cbc9.jpg",
+    "manufacturer": "Meble Skapski",
+    "wait_time": "1mies",
+    "code": "2303",
+    "additional_info": "biel"
+  },
+  {
+    "id": 14,
+    "name": "Kos",
+    "size": ["150x245", "200x245"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/e/a/ea2c9d5f-4efa-487b-a384-3adad82cfb3f.jpg",
+    "manufacturer": "Meble Skapski",
+    "wait_time": "1mies",
+    "code": "2303",
+    "additional_info": "kaszmir + czarny"
+  },
+  {
+    "id": 15,
+    "name": "Oli II",
+    "size": ["140x205"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/5/e/5ebc4867-1df0-4531-b094-3c0dc28f22a3.jpg",
+    "manufacturer": "PTG Intermeble",
+    "wait_time": "1mies",
+    "code": "1090",
+    "additional_info": "dab craft"
+  },
+  {
+    "id": 16,
+    "name": "Minoru",
+    "size": ["145x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/1/0/100ea9a8-9737-4b46-8a7e-c2540af31069.jpg",
+    "manufacturer": "Forte",
+    "wait_time": "2tyg",
+    "code": "0090",
+    "additional_info": "bialy mat"
+  },
+  {
+    "id": 17,
+    "name": "Metropolitan",
+    "size": ["150x205"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/3/e/3e892750-d026-4aaa-9674-c6fb16d0b418.jpg",
+    "manufacturer": "PTH Accord Import",
+    "wait_time": "1mies",
+    "code": "2753",
+    "additional_info": "biel/antracyt"
+  },
+  {
+    "id": 18,
+    "name": "Winner 2",
+    "size": ["120x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/4/3/43dc412f-a8a1-4448-8012-3ebb32a3062d.jpg",
+    "manufacturer": "Forte",
+    "wait_time": "2tyg",
+    "code": "0090",
+    "additional_info": "biel mat"
+  },
+  {
+    "id": 19,
+    "name": "Mila",
+    "size": ["180x210"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/c/c/cc5973ab-8aad-4c34-a040-05d705708603.jpg",
+    "manufacturer": "Intermeble",
+    "wait_time": "1mies",
+    "code": "1090",
+    "additional_info": "biel + dab artisan"
+  },
+  {
+    "id": 20,
+    "name": "Gozo",
+    "size": ["150x210"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/7/b/7b84d705-0996-49be-89ea-cedeffb8b255.jpg",
+    "manufacturer": "Meblosiek",
+    "wait_time": "1mies",
+    "code": "0871",
+    "additional_info": "grafit/dab artisan"
+  },
+  {
+    "id": 21,
+    "name": "Ina",
+    "size": ["200x210"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/3/3/33bcb189-0011-4010-8a10-8b0b6406bbca.jpg",
+    "manufacturer": "Blonski Fabryka",
+    "wait_time": "1mies",
+    "code": "2459",
+    "additional_info": "kaszmir"
+  },
+  {
+    "id": 22,
+    "name": "Pik",
+    "size": ["140x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/0/3/03f3fb76-0520-4de0-8077-375762a59829.jpg",
+    "manufacturer": "Cyprys",
+    "wait_time": "1mies",
+    "code": "1178",
+    "additional_info": "dab artisan"
+  },
+  {
+    "id": 23,
+    "name": "Montreal",
+    "size": ["150x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/d/8/d8725baf-09c2-4be3-a690-130348273ab0.jpg",
+    "manufacturer": "Intermeble",
+    "wait_time": "1mies",
+    "code": "1090",
+    "additional_info": "dab artisan"
+  },
+  {
+    "id": 24,
+    "name": "Lima",
+    "size": ["150x245", "200x245"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/f/7/f74424e2-23f8-45da-aaba-4b27892c2a30.jpg",
+    "manufacturer": "Meble Skapski",
+    "wait_time": "1mies",
+    "code": "2303",
+    "additional_info": "dab craft + czarny mat + lamele"
+  },
+  {
+    "id": 25,
+    "name": "Wieden 208",
+    "size": ["208x217"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/e/9/e9930078-2ea0-468f-8c2d-1494524a03c7.jpg",
+    "manufacturer": "Stolar",
+    "wait_time": "1mies",
+    "code": "1054",
+    "additional_info": "grafit, oswietlenie"
+  },
+  {
+    "id": 26,
+    "name": "Ness",
+    "size": ["120x215", "150x215", "203x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/8/7/87262956-8729-4f1b-855e-89cd45c12d9a.jpg",
+    "manufacturer": "Fenix",
+    "wait_time": "1mies",
+    "code": "1666",
+    "additional_info": "kaszmir"
+  },
+  {
+    "id": 27,
+    "name": "Santi",
+    "size": ["150x220"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/a/c/ac06fe21-65a8-41c3-b767-c5a8aaebaca7.jpg",
+    "manufacturer": "LLC",
+    "wait_time": "1mies",
+    "code": "3088",
+    "additional_info": "kaszmir + dab artisan"
+  },
+  {
+    "id": 28,
+    "name": "Nevada",
+    "size": ["200x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/4/4/44dd37f4-f796-415b-a7f3-06b015ff11d1.jpg",
+    "manufacturer": "Fadoma",
+    "wait_time": "1mies",
+    "code": "2477",
+    "additional_info": "kaszmir + dab artisan"
+  },
+  {
+    "id": 29,
+    "name": "Ines",
+    "size": ["120x215", "150x215","203x215"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/1/d/1dbe6cef-2e46-4723-8e5c-f213b14026b3.jpg",
+    "manufacturer": "Fenix",
+    "wait_time": "1mies",
+    "code": "1666",
+    "additional_info": "biel/dab cremona"
   }
 ]

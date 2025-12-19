@@ -32,7 +32,7 @@ export default function QuizPage() {
   const allProducts = getAllProducts();
 
   const generateQuestion = (product: QuizProduct) => {
-    const properties = ["manufacturer", "code", "wait_time", "additional_info"];
+    const properties = ["manufacturer", "code", "additional_info"];
     const randomProp =
       properties[Math.floor(Math.random() * properties.length)];
     const correctAnswer = String(product[randomProp as keyof typeof product]);

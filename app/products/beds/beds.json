@@ -24,7 +24,7 @@
     "name": "Norton",
     "size": ["120x200", "140x200", "160x200"],
     "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/7/0/70b60885-e533-470b-8f4a-22d646f1913b.jpg",
-    "manufacturer": "Mebelboss",
+    "manufacturer": "Mebelbos",
     "code": "1618",
     "wait_time": "do 2 tygodni",
     "additional_info": "bez materaca i stelaza"
@@ -44,7 +44,7 @@
     "name": "Idello",
     "size": ["160x200"],
     "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/6/5/656c7507-db30-455f-88ce-bfcf73de400e.jpg",
-    "manufacturer": "Mebelboss",
+    "manufacturer": "Mebelbos",
     "code": "1618",
     "wait_time": "do 2 tygodni",
     "additional_info": "stelaz niski, panel tapicerowany"
@@ -54,7 +54,7 @@
     "name": "Doorset",
     "size": ["120x200", "140x200", "160x200"],
     "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/f/e/fe83c9e7-df8c-4d6d-ad30-7744946a6509.jpg",
-    "manufacturer": "Mebelboss",
+    "manufacturer": "Mebelbos",
     "code": "1618",
     "wait_time": "do 2 tygodni",
     "additional_info": "bez materaca i stelaza"
@@ -114,7 +114,7 @@
     "name": "Dominica",
     "size": ["160x200"],
     "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/9/8/988718e4-fa3b-430b-93ac-4ef218902f52.jpg",
-    "manufacturer": "Mebelboss",
+    "manufacturer": "Mebelbos",
     "code": "1618",
     "wait_time": "do 2 tygodni",
     "additional_info": "z pojemnikiem i stelazem"
@@ -148,6 +148,65 @@
     "code": "0090",
     "wait_time": "do 2 tygodni",
     "additional_info": "bez materaca i stelaza, oswietlenie"
+  },
+  {
+    "id": 16,
+    "name": "Maggie",
+    "size": ["140x200", "160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/6/a/6aa2a532-c7ac-490c-8cdd-d0ff482a701a.jpg",
+    "manufacturer": "Wersal",
+    "code": "1380",
+    "wait_time": "do miesiaca",
+    "additional_info": "stelaz, pojemnik, rozne kolory"
+  },
+  {
+    "id": 17,
+    "name": "Karin",
+    "size": ["140x200", "160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/2/e/2e02ddc8-9bf8-4f84-926b-fa05a552ec02.jpg",
+    "manufacturer": "Mebelbos",
+    "code": "1618",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "z pojemnikiem i stelazem niskim"
+  },
+  {
+    "id": 18,
+    "name": "Recover",
+    "size": ["160x200", "180x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/8/2/824a35ca-595c-4cb9-8ddb-37d060650fd6.jpg",
+    "manufacturer": "Forte",
+    "code": "0090",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "bez stelaza i pojemnika, + puf, + oswietlenie"
+  },
+  {
+    "id": 19,
+    "name": "Domenica (Alto/Corto)",
+    "size": ["140x200", "160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/e/2/e2bf56b8-4571-41a4-af72-81ce7e2cf3fe.jpg",
+    "manufacturer": "Rosstone",
+    "code": "2732",
+    "wait_time": "do miesiaca",
+    "additional_info": "z pojemnikiem i stelazem, + kolory"
+  },
+  {
+    "id": 20,
+    "name": "Camalento",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/3/a/3a0c3b73-1a8c-4c33-90b3-d40be72791be.jpg",
+    "manufacturer": "PTG",
+    "code": "2821",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "sosna, stelaz topola"
+  },
+  {
+    "id": 21,
+    "name": "Flamingo",
+    "size": ["140x200", "160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/8/a/8a26e986-9c83-48e8-ade4-0f2ed6328056.jpg",
+    "manufacturer": "Pionier meble",
+    "code": "2695",
+    "wait_time": "do miesiaca",
+    "additional_info": "bez stelaza, bez pojemnika, kolory"
   }
-
 ]

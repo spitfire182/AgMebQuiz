@@ -18,7 +18,6 @@ export default function ProductItem({ product }: { product: Product }) {
     const [size, setSize] = useState(false);
     const [manufacturer, setManufacturer] = useState(false);
     const [additInfo, setAdditInfo] = useState(false);
-    const [waitTime, setWaitTime] = useState(false);
   return (
     <div className="border rounded-xl p-6 shadow-lg max-w-md bg-white">
       <div className="relative h-64 w-full mb-4">
@@ -34,9 +33,6 @@ export default function ProductItem({ product }: { product: Product }) {
       <p onClick={() => setSize(!size)}>Wymiary: {size ? product.size.join(", ") : "<SPRAWDZ>"}</p>
       <p onClick={() => setManufacturer(!manufacturer)}>
         Producent: {manufacturer ?`${product.manufacturer} - ${product.code}` :"<SPRAWDZ>"}
-      </p>
-      <p onClick={() => setWaitTime(!waitTime)}>
-        Czas oczekiwania: {waitTime ? product.wait_time :"<SPRAWDZ>"}
       </p>
       {product.additional_info && (
         <p onClick={() => setAdditInfo(!additInfo)}>
