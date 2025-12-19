@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Fitio",
+    "size": ["120x235", "150x235", "180x235", "200x235"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/4/a/4a185ac4-62b0-42b3-be13-b3fa9ad8a55d.jpg",
+    "manufacturer": "Forte",
+    "code": "0090",
+    "wait_time": "2tyg - 1 mies",
+    "additional_info": "bialy mat/polysk + lustro"
+  },
+  {
+    "id": 2,
+    "name": "Narago",
+    "size": ["270x210"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/4/b/4b5e6c52-9b34-47b9-a48c-06d772641f93.jpg",
+    "manufacturer": "forte",
+    "wait_time": "-",
+    "code": "0090",
+    "additional_info": "tylko dostepny kolor"
+  }
+]

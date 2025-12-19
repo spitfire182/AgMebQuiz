@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "name": "Lamello",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/6/3/63ff481b-5cca-43ec-8a6b-11e15f5f78fb.jpg",
+    "manufacturer": "Fenix",
+    "code": "1666",
+    "wait_time": "miesiac+",
+    "additional_info": "stelaz, kolor czarny lub bialy"
+  },
+  {
+    "id": 2,
+    "name": "Ryga",
+    "size": ["140x200", "160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/0/8/08dd63ad-f4a3-48fc-ad37-541faf9aa5fd.jpg",
+    "manufacturer": "Szynaka meble",
+    "code": "1124",
+    "wait_time": "do miesiaca",
+    "additional_info": "z kontenerkami"
+  },
+  {
+    "id": 3,
+    "name": "Norton",
+    "size": ["120x200", "140x200", "160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/7/0/70b60885-e533-470b-8f4a-22d646f1913b.jpg",
+    "manufacturer": "Mebelboss",
+    "code": "1618",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "bez materaca i stelaza"
+  },
+  {
+    "id": 4,
+    "name": "Cremona",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/9/2/92e5c5c8-75c2-47ab-865c-06aa1084f14e.jpg",
+    "manufacturer": "Cyprys",
+    "code": "1178",
+    "wait_time": "do miesiaca",
+    "additional_info": "ze stelazem i pojemnikiem, bez lub z wezglowiem, panel tapicerowany"
+  },
+  {
+    "id": 5,
+    "name": "Idello",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/6/5/656c7507-db30-455f-88ce-bfcf73de400e.jpg",
+    "manufacturer": "Mebelboss",
+    "code": "1618",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "stelaz niski, panel tapicerowany"
+  },
+  {
+    "id": 6,
+    "name": "Doorset",
+    "size": ["120x200", "140x200", "160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/f/e/fe83c9e7-df8c-4d6d-ad30-7744946a6509.jpg",
+    "manufacturer": "Mebelboss",
+    "code": "1618",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "bez materaca i stelaza"
+  },
+  {
+    "id": 7,
+    "name": "Lorenz",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/5/6/56ad2cbf-328d-482a-8225-29efc28accf5.jpg",
+    "manufacturer": "Meblosiek",
+    "code": "0871",
+    "wait_time": "do miesiaca",
+    "additional_info": "z pojemnikiem i stelazem"
+  },
+  {
+    "id": 8,
+    "name": "Malta",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/0/3/03a7ee33-fe51-42c0-af34-592f6be89da5.jpg",
+    "manufacturer": "Elmar",
+    "code": "1379",
+    "wait_time": "-",
+    "additional_info": "z pojemnikiem i stelazem"
+  },
+  {
+    "id": 9,
+    "name": "Mali",
+    "size": ["140x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/0/3/03a7ee33-fe51-42c0-af34-592f6be89da5.jpg",
+    "manufacturer": "Fenix",
+    "code": "1666",
+    "wait_time": "do miesiaca",
+    "additional_info": "z pojemnikiem i stelazem"
+  },
+  {
+    "id": 10,
+    "name": "Marsylia",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/5/b/5b740e0b-b6ce-4a4a-a656-18bebadb487d.jpg",
+    "manufacturer": "Fenix",
+    "code": "1666",
+    "wait_time": "do miesiaca",
+    "additional_info": "z pojemnikiem i stelazem, oswietlenie"
+  },
+  {
+    "id": 11,
+    "name": "Denver",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/b/c/bc0ef4bd-8629-403c-b8f7-6981b5a5cf57.jpg",
+    "manufacturer": "Cyprys",
+    "code": "1178",
+    "wait_time": "do miesiaca",
+    "additional_info": "z pojemnikiem i stelazem"
+  },
+  {
+    "id": 12,
+    "name": "Dominica",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/9/8/988718e4-fa3b-430b-93ac-4ef218902f52.jpg",
+    "manufacturer": "Mebelboss",
+    "code": "1618",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "z pojemnikiem i stelazem"
+  },
+  {
+    "id": 13,
+    "name": "Panama",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/8/f/8fa2b42b-6a78-4cd1-a19c-02fb90869485.jpg",
+    "manufacturer": "Stolar",
+    "code": "1054",
+    "wait_time": "do miesiaca",
+    "additional_info": "z pojemnikiem i stelazem"
+  },
+  {
+    "id": 14,
+    "name": "Upsala",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/7/1/717a43cc-bc64-47f5-8901-ca01c2bbbc73.jpg",
+    "manufacturer": "Meblosiek",
+    "code": "0871",
+    "wait_time": "do miesiaca",
+    "additional_info": "z pojemnikiem i stelazem"
+  },
+  {
+    "id": 15,
+    "name": "High Rock",
+    "size": ["160x200"],
+    "image": "https://static.agatameble.pl/cdn-cgi/image/width=920,height=960,fit=scale-down,format=auto,quality=85/media/catalog/product/6/a/6aa2a532-c7ac-490c-8cdd-d0ff482a701a.jpg",
+    "manufacturer": "Forte",
+    "code": "0090",
+    "wait_time": "do 2 tygodni",
+    "additional_info": "bez materaca i stelaza, oswietlenie"
+  }
+
+]
